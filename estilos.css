@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://i.pinimg.com/originals/63/6a/1a/636a1a83df1d9b59e524b861bbfb83ad.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+    color: black;
+}
+
+button{
+    font-style: normal;
+    font-size: medium;
+}
